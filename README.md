@@ -14,7 +14,7 @@ LCB(w) maps each word or action to a vector representing its effects on:
 - **L** (Life/Legitimacy): effect on dignity, trust, stability, moral standing
 - **C** (Cost/Harm): resource expenditure, risk, burden, damage  
 - **B** (Benefit): value creation, utility, positive outcome
-
+v(t)= w_L x L - w_C x C x w_B x B
 By treating words as force vectors rather than definitions, LCB(w) captures the real-world operational consequences of linguistic acts.
 
 ## Applications
